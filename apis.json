@@ -1,0 +1,80 @@
+{
+    "name": "Unfuddle",
+    "description": "Join Hundreds of thousands of businesses and individuals who use our bug & issue tracking and Git & Subversion hosting to successfully manage their software projects.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/512-unfuddle.jpg",
+    "tags": [
+        "bugs",
+        "code issues",
+        "have api",
+        "issues",
+        "projects",
+        "software"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/unfuddle\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Unfuddle",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/512-unfuddle.jpg",
+            "humanURL": "http:\/\/unfuddle.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/unfuddle-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/unfuddle.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/unfuddle.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/unfuddle.com\/blog\/feed.rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/unfuddle"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/unfuddle"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/unfuddle.com\/docs\/api"
+        },
+        {
+            "type": "Email",
+            "url": "legal@unfuddle.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@unfuddle.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/unfuddle"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/unfuddle"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/unfuddle.com"
+        }
+    ]
+}
